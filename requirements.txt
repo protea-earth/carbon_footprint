@@ -1,5 +1,4 @@
 pygame
-getpass
 reportlab
 matplotlib
 numpy 
