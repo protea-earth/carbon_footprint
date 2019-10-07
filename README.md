@@ -96,7 +96,7 @@ Reports look like [this](https://github.com/protea-earth/carbon_footprint/blob/m
 ### Uber trips:
 - (14 uber million trips / day * 0.50)9 / 325 million people (USA) * 365 days / year = 7.86 rides/person in the USA (assumes 50% of all uber rides are in the USA).
 - Average ride length = 6 miles/trip * 7.86 trips / person / year * 0.960 kgCo2/mile = 45.27 kg Co2/uber rider/year.
-### Food choices / nutrition:11
+### Food choices / nutrition:
 - 1.7 US tons = 1,542.21406 kilograms of CO2/year - vegetarian.
 - 2.5 US tons = 2,267.96185 kilograms of CO2/year - average.
 - 3.3 US tons = 2,993.70964 kilograms of CO2/year - meat lover.
