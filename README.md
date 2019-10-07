@@ -65,7 +65,7 @@ How much money do you spend on Amazon per month in US dollars - for example, fif
 ['1.pdf', '2.pdf', '3.pdf', '4.pdf', '5.pdf', '6.pdf', '7.pdf', '8.pdf']
 ```
 
-After this, a [.PDF report]((https://github.com/protea-earth/carbon_footprint/blob/master/footprint_report.pdf) will pop up with your results.
+After this, a [.PDF report](https://github.com/protea-earth/carbon_footprint/blob/master/footprint_report.pdf) will pop up with your results.
 
 ## What the [reports look like](https://github.com/protea-earth/carbon_footprint/blob/master/footprint_report.pdf)
 
