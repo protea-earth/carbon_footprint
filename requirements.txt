@@ -1,9 +1,7 @@
-webbrowser
 pygame
 ftplib
 getpass
 reportlab
-matplotlib
 matplotlib
 numpy 
 textblob
