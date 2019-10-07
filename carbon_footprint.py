@@ -3,18 +3,18 @@
 ##                         GRETA REPOSITORY                               ##
 ############################################################################
 
-repository name: Greta
+repository name: Carbon_footprint
 repository version: 1.0 
-repository link: https://github.com/jim-schwoebel/greta
+repository link: https://github.com/protea-earth/carbon_footprint
 author: Jim Schwoebel 
 author contact: jim@protea.earth
-description: Greta is an open-source voice assistant to help reduce your carbon footprint.
+description: 
 license category: opensource 
 license: Apache 2.0 license 
 organization name: Protea.earth 
 location: Boston, MA
 website: http://protea.earth 
-release date: 2019-09-26
+release date: 2019-10-07
 
 This code is hereby released under a Apache 2.0 license license. 
 
@@ -39,11 +39,11 @@ See the License for the specific language governing permissions and
 limitations under the License. 
 
 ##############################################################################
-##                       CARBON_CALCULATOR.PY                               ##
+##                        CARBON_FOOTPRINT.PY                               ##
 ##############################################################################
 
-Calculate your carbon footprint with your voice. This will make it easy to 
-baseline users and calculate their own carbon footprints. 
+Calculate your carbon footprint through answering a few questions on the command
+prompt. 
 '''
 
 ##############################################################################
