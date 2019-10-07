@@ -645,42 +645,42 @@ def improvement_pdf(pdfname, truthlist):
 print('please type answers to the following questions below')
 email=input('what is your email? \n')
 # example = 2 
-answer_1 = input('How many people are in your household? \n')
+answer_1 = input('How many people are in your household? (e.g. 2) \n')
 answer_1=clean_answer(answer_1)
 # example = 50 
-answer_2 = input('What is your electric bill (in dollars) monthly? \n')
+answer_2 = input('What is your electric bill (in dollars) monthly?  (e.g. 50) \n')
 answer_2=clean_answer(answer_2)
 # example = 5 
-answer_3 = input('How many flights do you take per year? \n')
+answer_3 = input('How many flights do you take per year? (e.g. 10) \n')
 answer_3=clean_answer(answer_3)
 # example = no 
-answer_4 = input('Do you own a car? \n')
+answer_4 = input('Do you own a car? (e.g. n | y) \n')
 answer_4=clean_answer(answer_4)
 # example = 1 
-answer_5 = input('What is your average distance to commute to/from work in miles - for example 21? \n')
+answer_5 = input('What is your average distance to commute to/from work in miles - for example 21? (e.g. 10) \n')
 answer_5=clean_answer(answer_5)
 # example = yes
-answer_6= input('Do you use public transportation? \n')
+answer_6= input('Do you use public transportation? (e.g. y)\n')
 answer_6=clean_answer(answer_6)
 # example = yes 
-answer_7 = input('Do you use uber or another ride sharing platform like Lyft? \n')
+answer_7 = input('Do you use uber or another ride sharing platform like Lyft? (e.g. y) \n')
 answer_7=clean_answer(answer_7)
 
 if answer_7 == 'yes':
     # example = 5
-    answer_8 = input("How many ride-sharing trips do you complete per month? \n")
+    answer_8 = input("How many ride-sharing trips do you complete per month? (e.g. 10) \n")
     answer_8=clean_answer(answer_8)
 else:
     answer_8 = '0'
 
 # example = yes
-answer_9 = input('Are you a vegetarian? \n')
+answer_9 = input('Are you a vegetarian? (e.g. n) \n')
 answer_9=clean_answer(answer_9)
 # example = no
-answer_10= input('Do you eat meat more than 3 times each week? \n')
+answer_10= input('Do you eat meat more than 3 times each week? (e.g. y) \n')
 answer_10=clean_answer(answer_10)
 # example = 50
-answer_11 = input('How much money do you spend on Amazon per month in US dollars - for example, fifty dollars? \n')
+answer_11 = input('How much money do you spend on Amazon per month in US dollars - for example, fifty dollars? (e.g. 150) \n')
 answer_11=clean_answer(answer_11)
 
 answers=[answer_1, answer_2, answer_3, answer_4, answer_5,
