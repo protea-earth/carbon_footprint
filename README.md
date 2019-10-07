@@ -67,7 +67,7 @@ How much money do you spend on Amazon per month in US dollars - for example, fif
 
 After this, a [.PDF report](https://github.com/protea-earth/carbon_footprint/blob/master/footprint_report.pdf) will pop up with your results.
 
-## What the [reports look like](https://github.com/protea-earth/carbon_footprint/blob/master/footprint_report.pdf)
+## [reports](https://github.com/protea-earth/carbon_footprint/blob/master/footprint_report.pdf)
 
 Reports look like [this](https://github.com/protea-earth/carbon_footprint/blob/master/footprint_report.pdf), and generate figures like the ones below that highlight your carbon consumption relative to the average American. 
 
