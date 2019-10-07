@@ -8,7 +8,7 @@ Calculate your carbon footprint easily using a command line interface. Built by 
 First, clone the repository:
 
 ```
-git clone git@github.com:jim-schwoebel/carbon_footprint.git
+git clone git@github.com:protea-earth/carbon_footprint.git
 ```
 
 Now install all the dependencies:
