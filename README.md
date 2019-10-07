@@ -1,7 +1,9 @@
 # carbon_footprint
 ![](https://github.com/protea-earth/carbon_footprint/blob/master/assets/logo.png)
 
-Calculate your carbon footprint easily using a command line interface. Built by [Protea](http://protea.earth), the world's leading social network community to reduce your effect on the climate.
+Calculate your carbon footprint easily using a command line interface. 
+
+Built by [Protea](http://protea.earth), the world's leading social network community to reduce your effect on the climate.
 
 ## Getting started
 
