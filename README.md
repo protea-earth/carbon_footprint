@@ -23,6 +23,50 @@ Now run the script
 python3 carbon_footprint.py
 ```
 
+You can then answer all the questions provided:
+
+```
+Jims-MBP:carbon_footprint jimschwoebel$ python3 carbon_footprint.py
+pygame 1.9.4
+Hello from the pygame community. https://www.pygame.org/contribute.html
+please type answers to the following questions below
+what is your email? 
+jim@protea.earth
+How many people are in your household? (e.g. 2) 
+2
+What is your electric bill (in dollars) monthly?  (e.g. 50) 
+50
+How many flights do you take per year? (e.g. 10) 
+10
+Do you own a car? (e.g. n | y) 
+n
+What is your average distance to commute to/from work in miles - for example 21? (e.g. 10) 
+1
+Do you use public transportation? (e.g. y)
+y
+Do you use uber or another ride sharing platform like Lyft? (e.g. y) 
+y
+How many ride-sharing trips do you complete per month? (e.g. 10) 
+10
+Are you a vegetarian? (e.g. n) 
+n
+Do you eat meat more than 3 times each week? (e.g. y) 
+y
+How much money do you spend on Amazon per month in US dollars - for example, fifty dollars? (e.g. 150) 
+150
+{'email': 'jim@protea.earth', 'answers': ['2', '50', '10', 'no', '1', 'yes', 'yes', '10', 'no', 'yes', '150'], 'footprint': 7710.966198878506, 'footprintbytype': [1401.8691588785048, 2868.8, 427.25239999999997, 2993.70964, 19.334999999999997], 'footprint_delta': -6949.883801121495, 'footprintbytype_delta': [-5850.890841121495, 2266.3500000000004, -4088.0176000000006, 725.74964, -3.075000000000003], 'labels_footprint': ['electric (kg Co2/year)', 'flight (kg Co2/year)', 'transportation (kg Co2/year)', 'food (kg Co2/year)', 'retail (kg Co2/year)'], 'labels_footprintbytype': 'total kg Co2/year'}
+2993.70964
+['Electricity consumption (kwh * 1000)', '# of flights per year', '# commute miles per year (thousands)', '# of uber trips per year', 'food choice (tons of CO2 emissions/year)']
+[4, 10, 0, 120, 2]
+[11, 2, 15, 7, 2]
+['electricity', 'flights', 'transportation', 'food', 'retail']
+[1401, 2868, 427, 2993, 19]
+[7252, 602, 4515, 2267, 22]
+['1.pdf', '2.pdf', '3.pdf', '4.pdf', '5.pdf', '6.pdf', '7.pdf', '8.pdf']
+```
+
+After this, a [.PDF report]((https://github.com/protea-earth/carbon_footprint/blob/master/footprint_report.pdf) will pop up with your results.
+
 ## What the [reports look like](https://github.com/protea-earth/carbon_footprint/blob/master/footprint_report.pdf)
 
 Reports look like [this](https://github.com/protea-earth/carbon_footprint/blob/master/footprint_report.pdf), and generate figures like the ones below that highlight your carbon consumption relative to the average American. 
