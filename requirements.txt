@@ -1,5 +1,4 @@
 pygame
-ftplib
 getpass
 reportlab
 matplotlib
