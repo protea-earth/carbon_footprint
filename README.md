@@ -1,5 +1,5 @@
 # carbon_footprint
-![](https://github.com/jim-schwoebel/carbon_footprint/blob/master/assets/logo.png)
+![](https://github.com/protea-earth/carbon_footprint/blob/master/assets/logo.png)
 
 Calculate your carbon footprint easily using a command line interface. Built by [Protea](http://protea.earth), the world's leading social network community to reduce your effect on the climate.
 
@@ -25,16 +25,16 @@ python3 carbon_footprint.py
 
 ## What the reports look like
 
-Reports look like [this](https://github.com/jim-schwoebel/carbon_footprint/blob/master/footprint_report.pdf), and generate figures like the ones below that highlight your carbon consumption relative to the average American. 
+Reports look like [this](https://github.com/protea-earth/carbon_footprint/blob/master/footprint_report.pdf), and generate figures like the ones below that highlight your carbon consumption relative to the average American. 
 
 ### Carbon consumption by category (by label)
-![](https://github.com/jim-schwoebel/carbon_footprint/blob/master/assets/bar.png)
+![](https://github.com/protea-earth/carbon_footprint/blob/master/assets/bar.png)
 ### Carbon consumption by category (kg Co2/year)
-![](https://github.com/jim-schwoebel/carbon_footprint/blob/master/assets/bar_2.png)
+![](https://github.com/protea-earth/carbon_footprint/blob/master/assets/bar_2.png)
 ### Carbon consumption % by category 
-![](https://github.com/jim-schwoebel/carbon_footprint/blob/master/assets/pi.png)
+![](https://github.com/protea-earth/carbon_footprint/blob/master/assets/pi.png)
 
-## [Assumptions](https://github.com/jim-schwoebel/carbon_footprint/blob/master/assets/7.pdf) in carbon footprint 
+## [Assumptions](https://github.com/protea-earth/carbon_footprint/blob/master/assets/7.pdf) in carbon footprint 
 ### Electricity:
 - Electric bill - 11,698 kwh/year = average energy consumption / household1
 - the U.S. average is 13.27 cents per kilowatt hour (kwh),2 0.62 kilogramCO2 / kwh3
@@ -65,9 +65,7 @@ Reports look like [this](https://github.com/jim-schwoebel/carbon_footprint/blob/
 Here are some ways you can get more involved:
 
 * register an account @ [Protea.Earth](http://protea.earth), a social network community designed to reduce your carbon footprint.
-* learn more about voice computing and buy the [Voice Computing in Python](https://github.com/jim-schwoebel/voicebook) textbook.
-* be mentored by someone on our team @ [NeuroLex](https://neurolex.ai) through the [Innovation Fellows Program](http://neurolex.ai/research).
-* give some feedback on this repository by opening up a [GitHub issue](https://github.com/jim-schwoebel/carbon_footprint/issues).
+* give some feedback on this repository by opening up a [GitHub issue](https://github.com/protea-earth/carbon_footprint//issues).
 * send me an email @ jim@protea.earth; I'm always interested to chat about voice computing and/or climate change!
 
 ## References
