@@ -1,0 +1,11 @@
+webbrowser
+pygame
+ftplib
+getpass
+reportlab
+matplotlib
+from matplotlib
+numpy 
+textblob
+PyPDF2
+pandas
