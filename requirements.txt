@@ -4,7 +4,7 @@ ftplib
 getpass
 reportlab
 matplotlib
-from matplotlib
+matplotlib
 numpy 
 textblob
 PyPDF2
