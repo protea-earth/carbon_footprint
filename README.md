@@ -3,7 +3,7 @@
 
 Calculate your carbon footprint easily using a command line interface. Built by [Protea](http://protea.earth), the world's leading social network community to reduce your effect on the climate.
 
-## getting started
+## Getting started
 
 First, clone the repository:
 
@@ -67,7 +67,7 @@ How much money do you spend on Amazon per month in US dollars - for example, fif
 
 After this, a [.PDF report](https://github.com/protea-earth/carbon_footprint/blob/master/footprint_report.pdf) will pop up with your results.
 
-## [reports](https://github.com/protea-earth/carbon_footprint/blob/master/footprint_report.pdf)
+## [Reports](https://github.com/protea-earth/carbon_footprint/blob/master/footprint_report.pdf)
 
 Reports look like [this](https://github.com/protea-earth/carbon_footprint/blob/master/footprint_report.pdf), and generate figures like the ones below that highlight your carbon consumption relative to the average American. 
 
