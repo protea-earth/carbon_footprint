@@ -109,7 +109,7 @@ Reports look like [this](https://github.com/protea-earth/carbon_footprint/blob/m
 Here are some ways you can get more involved:
 
 * register an account @ [Protea.Earth](http://protea.earth), a social network community designed to reduce your carbon footprint.
-* give some feedback on this repository by opening up a [GitHub issue](https://github.com/protea-earth/carbon_footprint//issues).
+* give some feedback on this repository by opening up a [GitHub issue](https://github.com/protea-earth/carbon_footprint/issues).
 * send me an email @ jim@protea.earth; I'm always interested to chat about voice computing and/or climate change!
 
 ## References
