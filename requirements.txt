@@ -5,3 +5,6 @@ numpy
 textblob
 PyPDF2
 pandas
+SpeechRecognition
+pyaudio
+pyttsx3
