@@ -107,13 +107,6 @@ Reports look like [this](https://github.com/protea-earth/carbon_footprint/blob/m
 - 3,300,000 boxes/day13 * 365 days/year / 325,000,000 Americans = 3.70 boxes/American.
 - 3.70 boxes/year * $47 / box = ~$173.90/year * 0.1289 kg / $1 USD= 22.41 kg CO2/year.
 
-## Getting involved
-Here are some ways you can get more involved:
-
-* register an account @ [Protea.Earth](http://start.protea.earth), a social network community designed to reduce your carbon footprint.
-* give some feedback on this repository by opening up a [GitHub issue](https://github.com/protea-earth/carbon_footprint/issues).
-* send me an email @ jim@protea.earth; I'm always interested to chat about voice computing and/or climate change!
-
 ## References
 - [Shrinkthatfootprint.com](http://shrinkthatfootprint.com/average-household-electricity-consumption)
 - [Chooseenergy.com](https://www.chooseenergy.com/electricity-rates-by-state/)
