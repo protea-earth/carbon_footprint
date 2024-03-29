@@ -3,8 +3,6 @@
 
 Calculate your carbon footprint easily using a command line interface. 
 
-Built by [Protea](http://protea.earth), the world's leading social network community to reduce your effect on the climate.
-
 ## Getting started
 
 First, clone the repository:
